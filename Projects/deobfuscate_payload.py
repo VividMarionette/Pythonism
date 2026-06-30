@@ -1,6 +1,6 @@
 import base64
 
-base64_link = """
+base64_audio = """
 #Put the link you recognize as base64 to decode the link
 """
 
